@@ -1,2 +1,3 @@
-# HalfShadow-s-Chemistry-Mod
-A Chemistry Mod
+# HalfShadow's Chemistry Mod
+啥都没有
+Here's Nothing.
